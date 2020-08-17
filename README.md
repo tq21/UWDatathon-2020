@@ -1,3 +1,3 @@
 # UWDatathon-2020
 
-![Certification](Certification.pdf)
+![Certification](Certification.jpg)
